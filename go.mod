@@ -1,4 +1,4 @@
-module github.com/orgs/cs-muic/teams/supercoolteamnameteam-backend/service/middleware
+module github.com/cs-muic/sca2024-t3-p2-supercoolteamnameteam-middleware
 
 go 1.24
 
